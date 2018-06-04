@@ -1,0 +1,5 @@
+kopi-c-siew-dai-test.wav	kopi c siew dai
+kopi-test.wav	kopi
+kopi-o-kosong-test.wav	kopi o kosong
+teh-c-siew-dai-test.wav	teh c siew dai
+teh-o-kosong-test.wav	teh o kosong
